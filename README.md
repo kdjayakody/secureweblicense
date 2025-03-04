@@ -1,1 +1,2 @@
-# itsignaturelicense
+# KDJ Secure Web Browser
+License Validation
