@@ -1,0 +1,9 @@
+{
+    "SecureWebViewer": {
+        "valid_versions": ["1.0.0", "1.0.1", "1.1.0"],
+        "latest_version": "1.1.0",
+        "enabled": true,
+        "download_url": "https://example.com/downloads/securewebviewer",
+        "message": "Welcome to SecureWebViewer! Your license is valid."
+    }
+}
